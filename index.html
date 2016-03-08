@@ -5,9 +5,20 @@
     <title>Tank for HTML5 with Houngking Hsi - http://www.indeex.org</title>
     <script src="lib/traceur/traceur.js" type="javascript"></script>
     <script src="lib/traceur/bootstrap.js" type="javascript"></script>
-    <script src="js/tankgame.js" type="module"></script>
+    <script src="js/tankgame.js"></script>
 </head>
 <body>
+<script>
+    "use strict"
+    let canvas = document.createElement("canvas");
+    canvas.setAttribute("width", "1024");
+    canvas.setAttribute("height", "768");
+    canvas.style.border = "1px dashed black";
+    document.body.appendChild(canvas);
+    let ctx = canvas.getContext("2d");
 
+    initGame();
+
+</script>
 </body>
 </html>
