@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "image_0.png",
+	"frame": {"x":2,"y":2,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+{
+	"filename": "image_1.png",
+	"frame": {"x":56,"y":2,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+{
+	"filename": "image_2.png",
+	"frame": {"x":110,"y":2,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+{
+	"filename": "image_3.png",
+	"frame": {"x":164,"y":2,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "bore.png",
+	"format": "RGBA8888",
+	"size": {"w":218,"h":58},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eadcf20978649b52dd77a05a9069455c:1/1$"
+}
+}
